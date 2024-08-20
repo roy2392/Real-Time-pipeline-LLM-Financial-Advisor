@@ -1,0 +1,12 @@
+peft_model:
+  id: rethinkai-org/wandb-registry-model/model_fin:best
+model:
+  id: NousResearch/Nous-Hermes-2-Mistral-7B-DPO
+  template_name: "mistral"
+  max_new_tokens: 500
+  temperature: 1.0
+setup:
+  device: cuda:0
+  debug: False
+dataset:
+  file: "testing_data.json"
