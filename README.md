@@ -49,12 +49,3 @@ The Langchain chains for context retrieval and response generation is deployed o
 Then the model is prompted via a CuRL request:
 ![prompt](https://github.com/user-attachments/assets/05208cec-7598-44d2-bf7a-23570b4955c9)
 
-## Upcoming 🔜
-The Synthetic Data generation pipeline (via Distilabel) for training the model will be uploaded soon!
-
-## 📫 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/muhammad-bin-usman/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/Muhammad2003)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@muhammadbinusman03)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/Muhamma97033716)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](https://substack.com/@rethinkai)
